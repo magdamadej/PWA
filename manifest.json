@@ -6,7 +6,7 @@
     "display": "fullscreen",
     "orientation": "portrait",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "/PWA/",
     "icons" : [{
         "src" : "./logo.png",
         "sizes" : "512x512",
