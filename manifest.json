@@ -1,0 +1,15 @@
+{
+    "name": "Blog o kawie",
+    "short_name": "coffeeAPP",
+    "theme_color": "#a65f0c",
+    "background_color": "#a65f0c",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons" : [{
+        "src" : "./logo.png",
+        "sizes" : "512x512",
+        "type" : "image/png"
+    }]
+  }
